@@ -22,8 +22,10 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #fff;
+}
+
+body{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 </style>
